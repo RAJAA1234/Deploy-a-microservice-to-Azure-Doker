@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e1uTSkF+F5r0vGqc9Vo6sDJoDZI4XXdukWpyTZIi2UTvNrA2iYG8msgfhVLUnKyKkUe7VJmej6May/sdnbC17A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RAJAA\\myMicroservice\\myMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAJAA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\RAJAA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RAJAA\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\RAJAA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\RAJAA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\RAJAA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
